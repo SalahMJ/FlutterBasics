@@ -1,2 +1,2 @@
-# FlutterBasics
-Basic Flutter app codes to start development
+# MAD-Codes
+Basics of Flutter 
